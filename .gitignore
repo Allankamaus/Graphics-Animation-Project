@@ -1,0 +1,11 @@
+# Visual Studio & Build Artifacts
+build/
+bin/
+obj/
+.vs/
+out/
+*.exe
+*.obj
+*.ppm
+*.png
+.vscode/
